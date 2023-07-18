@@ -11,7 +11,6 @@
 <img align="center" alt="Lucas-Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LucasLopesLedur&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucaslledur) 
