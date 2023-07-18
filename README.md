@@ -1,7 +1,7 @@
 
 🔭Student Backend<br>⚡In Elementary School 2
 
-![](https://github-readme-stats.vercel.app/api?username=LucasLopesLedur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=LucasLopesLedur&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LucasLopesLedur&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLopesLedur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
