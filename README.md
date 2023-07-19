@@ -9,9 +9,6 @@
 <img align="center" alt="Lucas-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 <img align="center" alt="Lucas-Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
 <img align="center" alt="Lucas-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-<img align="center" alt="Lucas-Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-<img align="center" alt="Lucas-Css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-<img align="center" alt="Lucas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>
 
 ---
