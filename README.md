@@ -4,8 +4,8 @@
 My name is Lucas, I'm a Backend student, I'm 13 years old, I intend to study Computer Science at college, I love studying new languages, 
 I have already studied Javascript, Html, Css, Lua, The main languages ​​I'm studying are Python, Java, Golang, I'm studying Spring Boot in Java
 
-![](https://github-readme-stats.vercel.app/api?username=LucasLopesLedur&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLopesLedur&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=LucasLopesLedur&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLopesLedur&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
 
