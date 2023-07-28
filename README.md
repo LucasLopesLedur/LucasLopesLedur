@@ -6,6 +6,7 @@ I have already studied Javascript, Html, Css, Lua, The main languages ​​I'm 
 
 ![](https://github-readme-stats.vercel.app/api?username=LucasLopesLedur&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLopesLedur&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)s
+
 <br>
 
 <div style="display: inline_block"><br>
