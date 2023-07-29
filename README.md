@@ -10,8 +10,8 @@ I have already studied Javascript, Html, Css, Lua, The main languages ​​I'm 
 <br>
 
 
-<div style="display: inline_block"><br>
 ### Studing in this moment:
+<div style="display: inline_block"><br>
 <img align="center" alt="Lucas-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 <img align="center" alt="Lucas-Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
 <img align="center" alt="Lucas-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
