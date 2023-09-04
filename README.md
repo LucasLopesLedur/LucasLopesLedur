@@ -2,7 +2,7 @@
 🔭Student Backend
 
 My name is Lucas, I'm a Backend student, I'm 13 years old, I love to learn new languages, 
-I have already studied Javascript, Html, Css, Lua, The main languages ​​I'm studying are Python, Java, Golang, I'm studying Spring Boot in Java
+I have already studied Javascript, Html, Css, The main languages ​​I'm studying are Python, Java, Golang, I'm studying Spring Boot in Java
 
 ![](https://github-readme-stats.vercel.app/api?username=LucasLopesLedur&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLopesLedur&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
